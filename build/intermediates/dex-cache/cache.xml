@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\suhri\.gradle\caches\modules-2\files-2.1\com.itextpdf\itextg\5.5.10\247811bfc4d8f4e99c909236eadf4dfc6dfa1615\itextg-5.5.10.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="247811bfc4d8f4e99c909236eadf4dfc6dfa1615">
+        <dex dex="E:\EDUBIOSAttendance\EDUBIOS\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suhri\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.2.0.aar\3db94776f26980176b8d164bce23e91f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="E:\EDUBIOSAttendance\EDUBIOS\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suhri\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.1.0\39ded76b5e1ce1c5b2688e1d25cdc20ecee32007\support-annotations-27.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="E:\EDUBIOSAttendance\EDUBIOS\app\build\intermediates\transforms\preDex\release\29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suhri\.gradle\caches\transforms-1\files-1.1\android-pdf-viewer-2.0.3.aar\1e5d1958ae895467bd0c3fd0f31236e1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="930d951d620e33cc761148fc880459eec564a3b5">
+        <dex dex="E:\EDUBIOSAttendance\EDUBIOS\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suhri\.gradle\caches\transforms-1\files-1.1\pdfium-android-1.4.0.aar\02c16d53b8b2ef71dc8d8b59f67993b2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c17272eb894dcb4217871365757ba21f605d35e8">
+        <dex dex="E:\EDUBIOSAttendance\EDUBIOS\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suhri\.gradle\caches\transforms-1\files-1.1\support-v4-23.2.0.aar\c01b0e2aee169fe3dbb657daee53abcb\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="E:\EDUBIOSAttendance\EDUBIOS\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suhri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.2.0.aar\d3f026289161571f4281127d8083fd53\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="E:\EDUBIOSAttendance\EDUBIOS\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suhri\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.0.0.aar\4f6522fe2c45caab65aadd27ed8c4442\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="E:\EDUBIOSAttendance\EDUBIOS\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suhri\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.2.0.aar\57fcc466bcc0eddc77bf0a9d757549b1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="E:\EDUBIOSAttendance\EDUBIOS\app\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suhri\.gradle\caches\transforms-1\files-1.1\material-spinner-1.2.5.aar\6c03ce4be92539045f8c6ae2d2773e02\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="65787220bebeba7492d17ebe976fd6e08ecf915b">
+        <dex dex="E:\EDUBIOSAttendance\EDUBIOS\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suhri\.gradle\caches\transforms-1\files-1.1\support-v4-23.2.0.aar\c01b0e2aee169fe3dbb657daee53abcb\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="E:\EDUBIOSAttendance\EDUBIOS\app\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun May 06 21:42:18 IST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Abhro\\Desktop\\New folder (5)\\AttendrApp\\AttendrApp\\Attendr\\app\\build\\intermediates\\assets\\debug
+0.path=fonts/Ordinary.ttf
+0.set=ASSET
+count=1

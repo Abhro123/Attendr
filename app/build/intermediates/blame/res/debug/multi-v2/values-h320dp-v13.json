@@ -1,0 +1,49 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\AttendrApp\\AttendrApp\\Attendr\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h320dp-v13\\values-h320dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\suhri\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.2.0.aar\\d3f026289161571f4281127d8083fd53\\res\\values-h320dp-v13\\values-h320dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Abhro\\Desktop\\New folder (5)\\AttendrApp\\AttendrApp\\Attendr\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h320dp-v13\\values-h320dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Abhro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.2.0.aar\\66da2ee6923c73356ea1e8c58a638272\\res\\values-h320dp-v13\\values-h320dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Abhro\\Desktop\\TCC\\Attendr-Android-App-master\\Attendr\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h320dp-v13\\values-h320dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Abhro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.2.0.aar\\66da2ee6923c73356ea1e8c58a638272\\res\\values-h320dp-v13\\values-h320dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}

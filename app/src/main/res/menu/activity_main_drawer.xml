@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_attendance"
+            android:icon="@drawable/ic_accessibility_black_24dp"
+            android:title="Attendance" />
+        <item
+            android:id="@+id/nav_sms"
+            android:icon="@drawable/ic_textsms_black_24dp"
+            android:title="SMS Reports" />
+        <item
+            android:id="@+id/nav_homework"
+            android:icon="@drawable/ic_import_contacts_black_24dp"
+            android:title="Homework" />
+
+        <item
+            android:id="@+id/nav_exam"
+            android:icon="@drawable/ic_assessment_black_24dp"
+            android:title="Exam" />
+
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/ic_assignment_black_24dp"
+            android:title="News" />
+
+        <item
+            android:id="@+id/nav_routine"
+            android:icon="@drawable/ic_book_black_24dp"
+            android:title="Routine" />
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_perm_media_black_24dp"
+            android:title="Gallery" />
+
+        <item
+            android:id="@+id/nav_calendar"
+            android:icon="@drawable/ic_date_range_black_24dp"
+            android:title="Calendar" />
+    </group>
+
+        <item android:title="MCQ Exams">
+    <menu>
+        <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_mcqexams"
+                android:icon="@drawable/ic_assessment_black_24dp"
+                android:title="Exam" />
+
+            <item
+                android:id="@+id/nav_examhistory"
+                android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+                android:title="Exam History" />
+        </group>
+    </menu>
+</item>
+
+
+        <item android:title="Contact">
+            <menu>
+                <group android:checkableBehavior="single">
+                <item
+                android:id="@+id/administrators"
+                android:icon="@drawable/ic_account_box_black_24dp"
+                android:title="Administrators" />
+            <item
+                android:id="@+id/teachers"
+                android:icon="@drawable/ic_account_circle_black_24dp"
+                android:title="Teachers" />
+            <item
+                android:id="@+id/principal"
+                android:icon="@drawable/ic_assignment_ind_black_24dp"
+                android:title="Principal" />
+            <item
+                android:id="@+id/developers"
+                android:icon="@drawable/ic_developer_mode_black_24dp"
+                android:title="Developers" />
+                </group>
+            </menu>
+        </item>
+
+        <item android:title="">
+        <menu>
+        <item android:title="Logout"
+            android:id="@+id/logout"
+            android:icon="@drawable/ic_power_settings_new_black_24dp"
+             />
+        </menu>
+        </item>
+
+
+    <!--<item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>-->
+
+</menu>

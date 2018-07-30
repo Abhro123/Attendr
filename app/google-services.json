@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "899588494493",
+    "firebase_url": "https://attendr-37a7c.firebaseio.com",
+    "project_id": "attendr-37a7c",
+    "storage_bucket": "attendr-37a7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899588494493:android:12226ded73c80db6",
+        "android_client_info": {
+          "package_name": "com.attendanceapp.attendr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899588494493-i3g7jstfnn9jr3ir3j1n33iagsffnfb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtrqzoBsO1HOeVT2yfoT-dOS6Migb_fT8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

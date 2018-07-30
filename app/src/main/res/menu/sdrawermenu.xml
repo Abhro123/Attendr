@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/shome"
+            android:title="Home"
+            android:icon="@drawable/home"/>
+        <item
+            android:id="@+id/sprofile"
+            android:title="Profile"
+            android:icon="@drawable/ic_account_circle_black_24dp"/>
+
+        <item
+            android:id="@+id/pdf"
+            android:title="Download PDF"
+            android:icon="@drawable/ic_import_contacts_black_24dp"/>
+        <item
+            android:id="@+id/scontact"
+            android:title="Contact Admin"
+            android:icon="@drawable/ic_textsms_black_24dp"/>
+
+        <item
+            android:id="@+id/slogout"
+            android:title="Logout"
+            android:icon="@drawable/logout"/>
+    </group>
+</menu>

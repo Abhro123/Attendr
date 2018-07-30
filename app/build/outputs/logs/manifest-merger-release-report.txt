@@ -1,0 +1,479 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:2:1-155:12
+INJECTED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:2:1-155:12
+INJECTED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:2:1-155:12
+INJECTED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:2:1-155:12
+MERGED from [com.google.firebase:firebase-core:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-core-9.0.0.aar\61bf418ff76b0dae4a89aa00f380907d\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:design:23.1.1] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\design-23.1.1.aar\18476929fb21a4edfae262b58242511a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.2.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.2.0.aar\66da2ee6923c73356ea1e8c58a638272\AndroidManifest.xml:17:1-27:12
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\library-aar-1.0.0.aar\d39b67ddf6e12e7812a4dea10b0e07fd\AndroidManifest.xml:1:70-7:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e985230ce3d04ebea0513df95cfca855\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-messaging:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.0.0.aar\5d4bbf68681629ada02751988e28330b\AndroidManifest.xml:16:1-33:12
+MERGED from [com.github.barteksc:android-pdf-viewer:2.0.3] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\android-pdf-viewer-2.0.3.aar\e3eba75997efef65adc990a3e0b5d553\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jaredrummler:material-spinner:1.2.5] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\material-spinner-1.2.5.aar\3b00f3fdc341ad7434aa26d546c264dd\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\dd5468220651889b038c212f3bbd16a3\AndroidManifest.xml:16:1-42:12
+MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.1.1.aar\84917a7495e9553a67baf127eee9e8db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\6cbb00c12ff59c979cf191f2e61c249e\AndroidManifest.xml:16:1-42:12
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:16:1-60:12
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.0.aar\374767738f442e1d473e9e6dc7b3eb61\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.0.aar\0622d0815cb09440ee520f61a11ebfd0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.0.0.aar\83963625d88db277073d1cffab61a7de\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.0.aar\3189a96110459035244d75c651ab398b\AndroidManifest.xml:16:1-26:12
+MERGED from [com.github.barteksc:pdfium-android:1.4.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\pdfium-android-1.4.0.aar\f71049af612bb471adfd18321281d442\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.2.0.aar\bc0ccfc54ba7709197e848b16994f9dc\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.2.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.2.0.aar\6808439527b5fc4ebf715d6d77768b2d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\support-v4-23.2.0.aar\c63147a66d84b8ec8a5ed38b857cad1b\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:2:1-155:12
+INJECTED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:2:1-155:12
+INJECTED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:2:1-155:12
+	package
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-core:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-core-9.0.0.aar\61bf418ff76b0dae4a89aa00f380907d\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-core:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-core-9.0.0.aar\61bf418ff76b0dae4a89aa00f380907d\AndroidManifest.xml:4:5-42
+MERGED from [com.android.support:design:23.1.1] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\design-23.1.1.aar\18476929fb21a4edfae262b58242511a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.1] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\design-23.1.1.aar\18476929fb21a4edfae262b58242511a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.2.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.2.0.aar\66da2ee6923c73356ea1e8c58a638272\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.2.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.2.0.aar\66da2ee6923c73356ea1e8c58a638272\AndroidManifest.xml:21:5-23:78
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\library-aar-1.0.0.aar\d39b67ddf6e12e7812a4dea10b0e07fd\AndroidManifest.xml:3:5-72
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\library-aar-1.0.0.aar\d39b67ddf6e12e7812a4dea10b0e07fd\AndroidManifest.xml:3:5-72
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e985230ce3d04ebea0513df95cfca855\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e985230ce3d04ebea0513df95cfca855\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-messaging:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.0.0.aar\5d4bbf68681629ada02751988e28330b\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.0.0.aar\5d4bbf68681629ada02751988e28330b\AndroidManifest.xml:18:5-42
+MERGED from [com.github.barteksc:android-pdf-viewer:2.0.3] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\android-pdf-viewer-2.0.3.aar\e3eba75997efef65adc990a3e0b5d553\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:android-pdf-viewer:2.0.3] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\android-pdf-viewer-2.0.3.aar\e3eba75997efef65adc990a3e0b5d553\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jaredrummler:material-spinner:1.2.5] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\material-spinner-1.2.5.aar\3b00f3fdc341ad7434aa26d546c264dd\AndroidManifest.xml:6:5-8:41
+MERGED from [com.jaredrummler:material-spinner:1.2.5] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\material-spinner-1.2.5.aar\3b00f3fdc341ad7434aa26d546c264dd\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\dd5468220651889b038c212f3bbd16a3\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\dd5468220651889b038c212f3bbd16a3\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.1.1.aar\84917a7495e9553a67baf127eee9e8db\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.1.1.aar\84917a7495e9553a67baf127eee9e8db\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\6cbb00c12ff59c979cf191f2e61c249e\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\6cbb00c12ff59c979cf191f2e61c249e\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.0.aar\374767738f442e1d473e9e6dc7b3eb61\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.0.aar\374767738f442e1d473e9e6dc7b3eb61\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.0.aar\0622d0815cb09440ee520f61a11ebfd0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.0.aar\0622d0815cb09440ee520f61a11ebfd0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.0.0.aar\83963625d88db277073d1cffab61a7de\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.0.0.aar\83963625d88db277073d1cffab61a7de\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.0.aar\3189a96110459035244d75c651ab398b\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.0.aar\3189a96110459035244d75c651ab398b\AndroidManifest.xml:18:5-42
+MERGED from [com.github.barteksc:pdfium-android:1.4.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\pdfium-android-1.4.0.aar\f71049af612bb471adfd18321281d442\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.4.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\pdfium-android-1.4.0.aar\f71049af612bb471adfd18321281d442\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.2.0.aar\bc0ccfc54ba7709197e848b16994f9dc\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.2.0.aar\bc0ccfc54ba7709197e848b16994f9dc\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.2.0.aar\6808439527b5fc4ebf715d6d77768b2d\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.2.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.2.0.aar\6808439527b5fc4ebf715d6d77768b2d\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\support-v4-23.2.0.aar\c63147a66d84b8ec8a5ed38b857cad1b\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\support-v4-23.2.0.aar\c63147a66d84b8ec8a5ed38b857cad1b\AndroidManifest.xml:20:5-43
+INJECTED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.2.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.2.0.aar\66da2ee6923c73356ea1e8c58a638272\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:11:5-66
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\dd5468220651889b038c212f3bbd16a3\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\dd5468220651889b038c212f3bbd16a3\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\6cbb00c12ff59c979cf191f2e61c249e\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\6cbb00c12ff59c979cf191f2e61c249e\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:12:5-78
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\dd5468220651889b038c212f3bbd16a3\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\dd5468220651889b038c212f3bbd16a3\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\6cbb00c12ff59c979cf191f2e61c249e\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\6cbb00c12ff59c979cf191f2e61c249e\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:20:5-79
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:13:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:15:22-77
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:16:22-73
+application
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:18:5-153:19
+MERGED from [com.google.firebase:firebase-core:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-core-9.0.0.aar\61bf418ff76b0dae4a89aa00f380907d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-core-9.0.0.aar\61bf418ff76b0dae4a89aa00f380907d\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:design:23.1.1] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\design-23.1.1.aar\18476929fb21a4edfae262b58242511a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\design-23.1.1.aar\18476929fb21a4edfae262b58242511a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.2.0.aar\66da2ee6923c73356ea1e8c58a638272\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.2.0.aar\66da2ee6923c73356ea1e8c58a638272\AndroidManifest.xml:25:5-20
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\library-aar-1.0.0.aar\d39b67ddf6e12e7812a4dea10b0e07fd\AndroidManifest.xml:5:5-19
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\library-aar-1.0.0.aar\d39b67ddf6e12e7812a4dea10b0e07fd\AndroidManifest.xml:5:5-19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e985230ce3d04ebea0513df95cfca855\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e985230ce3d04ebea0513df95cfca855\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-messaging:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.0.0.aar\5d4bbf68681629ada02751988e28330b\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.firebase:firebase-messaging:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.0.0.aar\5d4bbf68681629ada02751988e28330b\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\dd5468220651889b038c212f3bbd16a3\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\dd5468220651889b038c212f3bbd16a3\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\6cbb00c12ff59c979cf191f2e61c249e\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\6cbb00c12ff59c979cf191f2e61c249e\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.0.aar\374767738f442e1d473e9e6dc7b3eb61\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.0.aar\374767738f442e1d473e9e6dc7b3eb61\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.0.aar\0622d0815cb09440ee520f61a11ebfd0\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.0.aar\0622d0815cb09440ee520f61a11ebfd0\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.0.0.aar\83963625d88db277073d1cffab61a7de\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.0.0.aar\83963625d88db277073d1cffab61a7de\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.0.aar\3189a96110459035244d75c651ab398b\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.0.aar\3189a96110459035244d75c651ab398b\AndroidManifest.xml:20:5-24:19
+MERGED from [com.github.barteksc:pdfium-android:1.4.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\pdfium-android-1.4.0.aar\f71049af612bb471adfd18321281d442\AndroidManifest.xml:11:5-14:19
+MERGED from [com.github.barteksc:pdfium-android:1.4.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\pdfium-android-1.4.0.aar\f71049af612bb471adfd18321281d442\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.2.0.aar\bc0ccfc54ba7709197e848b16994f9dc\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.2.0.aar\bc0ccfc54ba7709197e848b16994f9dc\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.2.0.aar\6808439527b5fc4ebf715d6d77768b2d\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.2.0.aar\6808439527b5fc4ebf715d6d77768b2d\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\support-v4-23.2.0.aar\c63147a66d84b8ec8a5ed38b857cad1b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\support-v4-23.2.0.aar\c63147a66d84b8ec8a5ed38b857cad1b\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:21:9-45
+	android:allowBackup
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:23:9-40
+	android:name
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:19:9-61
+activity#com.edubios.groveus.activity.LoginActivity
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:25:9-36:20
+	android:label
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:27:13-45
+	android:launchMode
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:28:13-43
+	android:windowSoftInputMode
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:29:13-52
+	android:name
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:26:13-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:33:27-74
+activity#com.edubios.groveus.activity.AdminView
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:38:9-43:20
+	android:label
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:40:13-45
+	android:launchMode
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:41:13-43
+	android:theme
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:42:13-56
+	android:name
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:39:13-47
+activity#com.edubios.groveus.activity.SetpwdActivity
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:44:9-51:20
+	android:label
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:47:13-45
+	android:launchMode
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:46:13-43
+	android:windowSoftInputMode
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:48:13-52
+	android:theme
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:49:13-56
+	android:name
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:45:13-52
+activity#com.edubios.groveus.activity.SProfileView
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:55:9-61:20
+	android:label
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:58:13-45
+	android:launchMode
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:57:13-43
+	android:windowSoftInputMode
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:59:13-52
+	android:name
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:56:13-50
+activity#com.edubios.groveus.activity.SnProfileView
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:63:9-69:20
+	android:label
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:66:13-45
+	android:launchMode
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:65:13-43
+	android:windowSoftInputMode
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:67:13-52
+	android:name
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:64:13-51
+activity#com.edubios.groveus.activity.TProfileView
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:71:9-77:20
+	android:label
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:74:13-45
+	android:launchMode
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:73:13-43
+	android:windowSoftInputMode
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:75:13-52
+	android:name
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:72:13-50
+activity#com.edubios.groveus.activity.TContactUs
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:78:9-84:16
+	android:label
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:81:9-41
+	android:launchMode
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:80:9-39
+	android:windowSoftInputMode
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:82:9-48
+	android:name
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:79:9-44
+activity#com.edubios.groveus.activity.SContactUs
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:85:9-91:20
+	android:label
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:88:13-45
+	android:launchMode
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:87:13-43
+	android:windowSoftInputMode
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:89:13-52
+	android:name
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:86:13-48
+activity#com.edubios.groveus.activity.SDashboard
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:92:9-98:20
+	android:label
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:95:13-45
+	android:launchMode
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:94:13-43
+	android:windowSoftInputMode
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:96:13-52
+	android:name
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:93:13-48
+activity#com.edubios.groveus.activity.TDashboard
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:99:9-105:20
+	android:label
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:102:13-45
+	android:launchMode
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:101:13-43
+	android:windowSoftInputMode
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:103:13-52
+	android:name
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:100:13-48
+activity#com.edubios.groveus.activity.TPdfs
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:107:9-113:16
+	android:label
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:110:9-41
+	android:launchMode
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:109:9-39
+	android:windowSoftInputMode
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:111:9-48
+	android:name
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:108:9-39
+activity#com.edubios.groveus.activity.SPdf
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:115:9-121:20
+	android:label
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:118:13-45
+	android:launchMode
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:117:13-43
+	android:windowSoftInputMode
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:119:13-52
+	android:name
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:116:13-42
+activity#com.edubios.groveus.activity.TPdfc
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:123:9-129:20
+	android:label
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:126:13-45
+	android:launchMode
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:125:13-43
+	android:windowSoftInputMode
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:127:13-52
+	android:name
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:124:13-43
+activity#com.edubios.groveus.activity.ViewPdf
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:130:9-136:20
+	android:label
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:133:13-45
+	android:launchMode
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:132:13-43
+	android:windowSoftInputMode
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:134:13-52
+	android:name
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:131:13-45
+service#com.edubios.groveus.FirebaseMessagingService
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:138:9-143:19
+	android:name
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:139:13-53
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:140:13-142:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:141:17-77
+	android:name
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:141:25-75
+service#com.edubios.groveus.FirebaseInstanceIDService
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:146:9-151:19
+	android:name
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:147:13-54
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:148:13-150:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:149:17-79
+	android:name
+		ADDED from C:\Users\Abhro\Desktop\New folder (5)\AttendrApp\AttendrApp\Attendr\app\src\main\AndroidManifest.xml:149:25-77
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.0.0.aar\5d4bbf68681629ada02751988e28330b\AndroidManifest.xml:24:9-30:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.0.0.aar\5d4bbf68681629ada02751988e28330b\AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.0.0.aar\5d4bbf68681629ada02751988e28330b\AndroidManifest.xml:25:13-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\dd5468220651889b038c212f3bbd16a3\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\6cbb00c12ff59c979cf191f2e61c249e\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\6cbb00c12ff59c979cf191f2e61c249e\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:22:5-68
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\dd5468220651889b038c212f3bbd16a3\AndroidManifest.xml:24:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\dd5468220651889b038c212f3bbd16a3\AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\6cbb00c12ff59c979cf191f2e61c249e\AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\6cbb00c12ff59c979cf191f2e61c249e\AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\dd5468220651889b038c212f3bbd16a3\AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\dd5468220651889b038c212f3bbd16a3\AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\dd5468220651889b038c212f3bbd16a3\AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\dd5468220651889b038c212f3bbd16a3\AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\dd5468220651889b038c212f3bbd16a3\AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\dd5468220651889b038c212f3bbd16a3\AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\6cbb00c12ff59c979cf191f2e61c249e\AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\6cbb00c12ff59c979cf191f2e61c249e\AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\dd5468220651889b038c212f3bbd16a3\AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\dd5468220651889b038c212f3bbd16a3\AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\dd5468220651889b038c212f3bbd16a3\AndroidManifest.xml:37:11-82
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:25:17-71
+permission#com.attendanceapp.attendr.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:28:22-76
+uses-permission#com.attendanceapp.attendr.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:36:13-40:29
+intent-filter#com.attendanceapp.attendr+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:39:27-58
+category#com.attendanceapp.attendr
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\cb62e028c1f899db2be93e1c59585ab5\AndroidManifest.xml:52:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.0.aar\374767738f442e1d473e9e6dc7b3eb61\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.0.aar\374767738f442e1d473e9e6dc7b3eb61\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.0.aar\374767738f442e1d473e9e6dc7b3eb61\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.0.aar\374767738f442e1d473e9e6dc7b3eb61\AndroidManifest.xml:20:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.0.aar\0622d0815cb09440ee520f61a11ebfd0\AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.0.aar\0622d0815cb09440ee520f61a11ebfd0\AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.0.aar\0622d0815cb09440ee520f61a11ebfd0\AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.0.aar\0622d0815cb09440ee520f61a11ebfd0\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.0.aar\0622d0815cb09440ee520f61a11ebfd0\AndroidManifest.xml:9:13-58
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.0.aar\3189a96110459035244d75c651ab398b\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.0.aar\3189a96110459035244d75c651ab398b\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\Abhro\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.0.aar\3189a96110459035244d75c651ab398b\AndroidManifest.xml:22:13-58

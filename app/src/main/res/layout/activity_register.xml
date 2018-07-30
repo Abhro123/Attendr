@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/bg_register"
+    android:orientation="vertical"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp" >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:src="@drawable/logo"
+        android:id="@+id/imageView2"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text|textPersonName"
+        android:ems="10"
+        android:imeOptions="actionSearch"
+        android:maxLines="1"
+        android:background="@color/white"
+        android:padding="10dp"
+        android:textColor="@color/input_login"
+        android:id="@+id/studentid"
+        android:hint="Enter Student ID"
+        android:layout_marginTop="32dp"
+        android:layout_below="@+id/imageView2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:id="@+id/msgdisplay"
+        android:layout_width="275dp"
+        android:layout_marginTop="29dp"
+        android:layout_below="@+id/search"
+        android:textColor="@color/white"
+        android:layout_centerHorizontal="true"
+        android:layout_height="50dp" />
+
+    <Button
+        android:text="Validate OTP"
+        android:layout_width="match_parent"
+        android:id="@+id/Validateotp"
+        android:visibility="invisible"
+        android:onClick="checkOtp"
+        android:background="@color/btn_login_bg"
+        android:textColor="@color/btn_login"
+        android:layout_marginTop="33dp"
+        android:layout_below="@+id/otp"
+        android:layout_centerHorizontal="true"
+        android:layout_height="45dp" />
+
+    <Button
+        android:id="@+id/btnLinkToLoginScreen"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:text="@string/btn_link_to_login"
+        android:textAllCaps="false"
+        android:textSize="15sp"
+        android:textColor="@color/white"
+        android:onClick="backlogin"
+        android:layout_below="@+id/Validateotp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="15dp" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:background="@color/white"
+        android:id="@+id/otp"
+        android:hint="Enter OTP "
+        android:gravity="bottom|center_vertical"
+        android:textColor="@color/input_login"
+        android:padding="10dp"
+        android:visibility="invisible"
+        android:layout_marginTop="30dp"
+        android:layout_below="@+id/msgdisplay"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:text="Search"
+        android:layout_width="match_parent"
+        android:id="@+id/search"
+        android:onClick="checkid"
+        android:background="@color/btn_login_bg"
+        android:textColor="@color/btn_login"
+        android:layout_marginTop="31dp"
+        android:layout_below="@+id/studentid"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_height="45dp" />
+
+</RelativeLayout>
+
+
